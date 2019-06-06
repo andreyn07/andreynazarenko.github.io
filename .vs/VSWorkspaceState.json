@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MVCEntityLogin",
+    "\\MVCEntityLogin\\MVCEntityLogin",
+    "\\MVCEntityLogin\\MVCEntityLogin\\Models",
+    "\\MVCEntityLogin\\MVCEntityLogin\\Views",
+    "\\MVCEntityLogin\\MVCEntityLogin\\Views\\Home"
   ],
+  "SelectedNode": "\\MVCEntityLogin\\MVCEntityLogin\\Views\\Home\\Login.cshtml",
   "PreviewInSolutionExplorer": false
 }
