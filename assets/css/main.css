@@ -22,7 +22,7 @@ div.foo{
   font-size: 5em;
   margin: 0.01em;
   position: relative;
-  color: rgb(116, 114, 122);
+  color: rgb(47, 45, 56);
   transform-style: preserve-3d;
   perspective: 400;
   z-index: 1;
@@ -38,7 +38,7 @@ div.foo{
   transition: all 0.4s ease-in-out;
 }
 .letter:before{
-  color:#f5ea0a;
+  color:#3E93DE;
   text-shadow: 
     -1px 0px 1px rgba(255,255,255,.8),
     1px 0px 1px rgba(0,0,0,.8);
@@ -49,7 +49,7 @@ div.foo{
     rotateZ(0deg);
 }
 .letter:after{
-  color:#9c9a6d;
+  color:#a1a1a1;
   z-index:2;
   transform:
     scale(1.08,1)
@@ -59,7 +59,7 @@ div.foo{
     skew(0deg,1deg);
 }
 .letter:hover:before{
-  color: #cac222;
+  color: #6891b6;
   transform:
     rotateX(0deg)
     rotateY(-40deg)
